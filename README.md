@@ -1,5 +1,5 @@
 # VMLab
-Deployed Windows 10 VM in Azure, used Event Viewer, Log Analytics, and Microsoft Sentinel to analyze logs and build attack map. Courtsey of Josh Madakor. 
+Deployed Windows 10 VM in Azure, used Event Viewer, Log Analytics, and Microsoft Sentinel to analyze logs and build attack map. Courtesy of Josh Madakor. 
 # Azure Honeypot & Log Analysis Lab
 
 This project demonstrates the creation of a honeypot using a Windows 10 Virtual Machine in Microsoft Azure, followed by log collection, analysis, and visualization using Event Viewer, Log Analytics Workspace, and Microsoft Sentinel.
