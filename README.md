@@ -53,3 +53,6 @@ This project demonstrates the creation of a honeypot using a Windows 10 Virtual 
 ---
 
 > 🚨 **Note:** Be mindful of VM runtime costs in Azure. Always stop or delete resources after use if not using a Cyber Range environment.
+>
+> ![VM Attack Map](https://github.com/user-attachments/assets/69ed4136-db23-4937-a81e-2cb49b3d2f5f)
+
